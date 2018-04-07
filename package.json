@@ -1,13 +1,13 @@
 {
   "name": "esri",
-  "version": "4.6.1",
+  "version": "4.6.2",
   "description": "Minified, unbuilt version of the ArcGIS API for JavaScript",
   "license": "SEE LICENSE IN copyright.txt",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/g3r4n/esri.git"
   },
-  "main":"index.js",
+  "main": "index.js",
   "keywords": [
     "esrijs",
     "esri",
