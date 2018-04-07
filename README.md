@@ -1,28 +1,26 @@
-# arcgis-js-api
+# esri
 
-A minified, unbuilt version of the [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/) to be used with [bower](http://bower.io).
+A fork of the [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/)
 
-## Features
-A minified, unbuilt version of the [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/).
-You can install this repo via [bower](http://bower.io/) and create your own custom builds with [Dojo](http://dojotoolkit.org/) or [RequireJS](http://requirejs.org/).
+# DISCLAIMER
 
-## Instructions
+!!! THIS IS NOT AN OFFICIAL PACKAGE FROM ESRI !!!
 
-Building an ArcGIS API for JavaScript application requires signing up for an [ArcGIS account](https://developers.arcgis.com).
+FOR THE OFFICIAL PACKAGE SEE :
 
-`npm install arcgis-js-api`
-
+[ArcGIS API for JavaScript Official Site](https://developers.arcgis.com/javascript/)
 Or
+[ArcGIS API for JavaScript GitHub Repo](https://github.com/Esri/arcgis-js-api)
 
-`bower install arcgis-js-api`
+## Instalation
+
+`npm install esri`
 
 ## Requirements
 
-To install and use as a `bower` or `npm` installation:
+To install and use `npm` installation:
 
 * [node](http://nodejs.org/)
-* [git](http://git-scm.org/)
-* [bower](http://bower.io/)
 
 This repo has dependencies on the following repos.
 
@@ -36,20 +34,12 @@ This repo has dependencies on the following repos.
 | dstore | https://github.com/SitePen/dstore/tree/v1.1.2 | /dstore |
 | moment | https://github.com/moment/moment/tree/2.19.2 | /moment |
 
-Please see our [recommended guide](https://developers.arcgis.com/javascript/latest/guide/using-bower/index.html).
-
 ## Resources
 
 * [ArcGIS for JavaScript](https://developers.arcgis.com/javascript/)
 * [http://blogs.esri.com/esri/arcgis/tag/javascript/](http://blogs.esri.com/esri/arcgis/tag/javascript/)
 * [twitter@esri](http://twitter.com/esri)
 
-## Issues
-
-Find a bug or want to request a new feature?  Please refer to [support.esri.com](http://support.esri.com/) or visit [GeoNet](https://geonet.esri.com/community/developers/web-developers/arcgis-api-for-javascript).
-
-## Support
-For assistance, please refer to [support.esri.com](http://support.esri.com/).
 
 ## Licensing
 COPYRIGHT © 2017 Esri
