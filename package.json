@@ -1,12 +1,13 @@
 {
-  "name": "arcgis-js-api",
+  "name": "esri",
   "version": "4.6.1",
   "description": "Minified, unbuilt version of the ArcGIS API for JavaScript",
   "license": "SEE LICENSE IN copyright.txt",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Esri/arcgis-js-api.git"
+    "url": "git+https://github.com/g3r4n/esri.git"
   },
+  "main":"index.js",
   "keywords": [
     "esrijs",
     "esri",
@@ -22,6 +23,5 @@
     "dojox": "Esri/dojox#v1.13.0/esri-3.23.0",
     "moment": "2.18.1"
   },
-  "homepage": "https://developers.arcgis.com/javascript",
-  "dojoBuild": "esri.profile.js"
+  "homepage": "https://developers.arcgis.com/javascript"
 }
